@@ -1,2 +1,3 @@
-# hello-world
-Just Study Github
+Hi Emoer,
+
+  Be the better man!
